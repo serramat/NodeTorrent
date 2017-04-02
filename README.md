@@ -1,1 +1,50 @@
 # NodeTorrent
+
+An awesome app written in NodeJS which allows you to easily find your preferred torrents and without any annoying pop-up.
+
+
+## Torrent providers ##
+
+The torrent providers available on this app are:
+- Torrentz
+- The Pirate Bay
+- Kickass
+- ExtraTorrent
+- EZTV
+- RARBG
+- YTS
+- TNTVillage
+- CorsaroNero
+- ScambioFile
+- TorrentITA
+- MegaFileTube
+
+
+## Functionalities ##
+
+Functionalities:
+
+- button inform you if you are in filter mode
+- text filter (minimum 4 characters)
+- button to reset any filter (manual research, category)
+- button to refresh the current research results
+- button to manage your most recent research filters
+- list of the last 10 researches
+- list of categories for each provider
+- button for selecting the preferred provider
+- toggle language button (English/Italian)
+- button to set trasmission remote parameters
+- two button for changing the page
+
+
+## How to download torrent files ##
+
+Download file:
+
+- 1 release: right-clicking on the desired entry and choose a download method
+- 2 release or more: select two or more checkboxes, then right-click anywhere and choose a download method
+
+
+## Download application ##
+
+Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v2.2.0) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
