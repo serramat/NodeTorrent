@@ -41,7 +41,7 @@ Functionalities:
 
 Download file:
 
-- 1 release: right-clicking on the desired entry and choose a download method
+- 1 release: right-clicking on the desired entry (for YTS right-clicking on desidered button) and choose a download method
 - 2 release or more: select two or more checkboxes, then right-click anywhere and choose a download method
 
 
