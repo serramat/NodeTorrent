@@ -48,3 +48,9 @@ Download file:
 ## Download application ##
 
 Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v2.2.2) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
+
+## Screenshot ##
+
+![Alt File](https://github.com/serramat/NodeTorrent/blob/master/Screenshot_01.PNG)
+![Alt File](https://github.com/serramat/NodeTorrent/blob/master/Screenshot_02.PNG)
+![Alt File](https://github.com/serramat/NodeTorrent/blob/master/Screenshot_03.PNG)
