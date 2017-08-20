@@ -13,6 +13,7 @@ The torrent providers available on this app are:
 - EZTV
 - RARBG
 - YTS
+- MagnetDL
 - TNTVillage
 - CorsaroNero
 - ScambioFile
@@ -47,7 +48,7 @@ Download file:
 
 ## Download application ##
 
-Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v2.2.3) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
+Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v2.2.5) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
 
 ## Screenshot ##
 
