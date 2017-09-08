@@ -37,6 +37,7 @@ Functionalities:
 - button to set trasmission remote parameters
 - two button for changing the page
 
+I will not take any responsibility for an improper use of this application. I am not encouraging the circulation of copyright material.
 
 ## How to download torrent files ##
 
