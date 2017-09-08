@@ -1,7 +1,7 @@
 # NodeTorrent
 
 An awesome app written in NodeJS which allows you to easily find your preferred torrents and without any annoying pop-up.
-
+(I will not take any responsibility for an improper use of this application. I am not encouraging the circulation of copyright material.)
 
 ## Torrent providers ##
 
@@ -36,8 +36,6 @@ Functionalities:
 - toggle language button (English/Italian)
 - button to set trasmission remote parameters
 - two button for changing the page
-
-I will not take any responsibility for an improper use of this application. I am not encouraging the circulation of copyright material.
 
 ## How to download torrent files ##
 
