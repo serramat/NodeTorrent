@@ -16,9 +16,9 @@ The torrent providers available on this app are:
 - MagnetDL
 - TNTVillage
 - CorsaroNero
-<s>- ScambioFile</s>
+- <s>ScambioFile</s>
 - TorrentITA
-<s>- MegaFileTube</s>
+- <s>MegaFileTube</s>
 
 
 ## Functionalities ##
