@@ -10,6 +10,7 @@ The torrent providers available on this app are:
 - The Pirate Bay
 - Kickass
 - ExtraTorrent
+- LimeTorrents
 - EZTV
 - RARBG
 - YTS
@@ -47,7 +48,7 @@ Download file:
 
 ## Download application ##
 
-Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v3.1.1) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
+Download the latest version of this app (https://github.com/serramat/NodeTorrent/releases/tag/v3.2.0) and forget to look for a new release: when an update is available, you’ll be notified from the app itself.
 
 ## Screenshot ##
 
