@@ -6,19 +6,19 @@ An awesome app written in NodeJS which allows you to easily find your preferred 
 ## Torrent providers ##
 
 The torrent providers available on this app are:
-- Torrentz
+- <s>Torrentz</s>
 - The Pirate Bay
 - Kickass
-- ExtraTorrent
-- LimeTorrents
+- <s>ExtraTorrent</s>
+- <s>LimeTorrents</s>
 - EZTV
 - RARBG
 - YTS
 - MagnetDL
-- TNTVillage
+- <s>TNTVillage</s>
 - CorsaroNero
 - <s>ScambioFile</s>
-- TorrentITA
+- <s>TorrentITA</s>
 - <s>MegaFileTube</s>
 
 
